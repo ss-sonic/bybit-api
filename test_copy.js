@@ -74,8 +74,8 @@ const initialisews =async ()=>{
 }
 
 const main=async()=>{
-  // await initialisews()
-  func()
+  await initialisews()
+  // func()
 }
 
 main()
